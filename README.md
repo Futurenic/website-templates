@@ -1,2 +1,2 @@
 # website-templates
-practise projects
+practice projects
